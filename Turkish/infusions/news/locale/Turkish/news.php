@@ -1,10 +1,10 @@
 <?php
-$locale['news_0001'] = "Okumaya Devam Et";
+$locale['news_0001'] = "Devamını Oku";
 $locale['news_0002'] = "Yazdır";
 $locale['news_0003'] = "Düzenle";
 $locale['news_0004'] = "Haber";
 $locale['news_0005'] = "Henüz haber gönderilmedi";
-$locale['news_0006'] = "Kategorilenmedi";
+$locale['news_0006'] = "Kategorisiz";
 $locale['news_0008'] = "Son Güncellenme";
 $locale['news_0009'] = "Haber Kategorileri";
 $locale['news_0010'] = "Tüm Diğer Kategoriler";
